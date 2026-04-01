@@ -2,9 +2,9 @@
 
 <p align="center">
 
-<img src="images/reconstructed_data_SEED.png" alt="Reconstructed data for SEED" width="45%">
+<img src="reconstructed_data_SEED.png" alt="Reconstructed data for SEED" width="45%">
 
-<img src="images/topomap_SEED.png" alt="Topomap for SEED" width="45%">
+<img src="topomap_SEED.png" alt="Topomap for SEED" width="45%">
 
 </p>
 
